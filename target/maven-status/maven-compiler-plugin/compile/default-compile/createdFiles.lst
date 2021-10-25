@@ -1,0 +1,6 @@
+com\quiz\onlineassessment\Assessment.class
+com\quiz\onlineassessment\AssessmentRepository.class
+com\quiz\onlineassessment\QuizController.class
+com\quiz\onlineassessment\UserRepository.class
+com\quiz\onlineassessment\OnlineassessmentApplication.class
+com\quiz\onlineassessment\User.class
